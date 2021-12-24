@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranjalKaushik10
+- 👋 Hi, I’m @PranjalKaushik
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React Web development.
